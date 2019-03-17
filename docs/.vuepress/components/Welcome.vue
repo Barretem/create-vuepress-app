@@ -6,13 +6,13 @@
             <div class="content">
                     <h2 class="title">学习 让人堕落</h2>
                     <p class="subtitle">
-                        新的开放能力赋能商家、ISV，使用手机淘宝帮助用户获得更出色的使用体验
+                        致敬有趣又博学的灵魂
                     </p>
                     <div class="buttons">
-                        <a href="/framework/">
+                        <a href="/vue/">
                             <button type="button" class="button" role="button">
-                                快速上手
-                                <div style="margin-left: 5px; display: inline-block; width: 10px; height: 10px; border-right: 1px solid rgb(255, 255, 255); border-bottom: 1px solid rgb(255, 255, 255); transform: rotate(-45deg);"></div>
+                                快速堕落
+                                <div class="right-icon"></div>
                             </button>
                         </a>
                 </div>
@@ -78,21 +78,18 @@
         line-height: 1.7em;
         font-weight: 100;
     }
-    .gitStar {
-        border: 0;
-        height: 32px;
-        width: 145px;
-        margin: 0 auto
-    }
     .gitContainer {
         margin-top: 30px;
         text-align: center;
     }
-    .updateLogLinkWrap {
-        text-align: center;
-    }
-    .updateLogLink {
-        color: #fff
+    .right-icon {
+        margin-left: 5px;
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        border-right: 1px solid rgb(255, 255, 255);
+        border-bottom: 1px solid rgb(255, 255, 255);
+        transform: rotate(-45deg);
     }
     .content-wrapper {
         position: absolute;

@@ -1,1 +1,4 @@
+---
+navbar: false
+---
 <welcome />
